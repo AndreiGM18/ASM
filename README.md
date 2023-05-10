@@ -1,7 +1,7 @@
 **Name: Mitran Andrei-Gabriel**
 **Group: 313CA**
 
-## Momente disperate - Homework 1
+## Desperate moments - Homework 1
 
 ### Description:
 
